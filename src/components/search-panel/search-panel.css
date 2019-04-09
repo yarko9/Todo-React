@@ -1,0 +1,17 @@
+.search-input {
+    width: 100%;
+    flex-grow: 1;
+    margin-right: 3px;
+
+}
+
+@media (max-width: 465px) {
+    
+    .top-panel {
+        flex-direction: column;
+    }
+    
+    .search-input {
+        margin-bottom: 15px;
+    }
+}

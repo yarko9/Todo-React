@@ -1,0 +1,15 @@
+
+.todo-app {
+    margin: 50px auto;
+    max-width: 650px;
+}
+  
+.top-panel {
+    margin: 1rem 0;
+}
+
+@media (max-width: 670px) {
+    .todo-app {
+        margin: 40px 10px;
+    }
+}
